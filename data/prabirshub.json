@@ -1,0 +1,29 @@
+{
+  "name": "Prabir Singh",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "A finance professional turned to tech and became an advocate for digital transformation. I'm also a digital nomad who loves learning new skills."
+    "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/prabirshub",
+      "icon": "FaTwitter"
+    },
+      {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/digitalprabir",
+      "icon": "FaLinkedIn"
+      },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/prabirshub",
+      "icon": "FaGitHub"
+      },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/digitalprabirs",
+      "icon": "FaInstagram"
+      },
+
+  ]
+}
